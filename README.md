@@ -18,10 +18,26 @@ Each exercise focuses on a specific topic to help reinforce essential web develo
 - Basic animations and transitions  
 
 ## 📂 Repository Structure
-project-folder/
-│-- html/
-│-- css/
-│-- images/
+|-- Projecs
+|--/EX01
+|--/EX02
+|--/EX03
+|--/EX04
+|--/EX05
+|--/EX06
+|--/EX07
+|--/EX08
+|--/EX09
+|--/EX11
+|--/EX12
+|--/EX13
+|--/EX14
+|--/EX15
+|--/EX16
+|--/EX17
+|--/EX18
+|--/EX19
+|--/EX20
 │-- index.html
 
 ## 🛠 Technologies Used
